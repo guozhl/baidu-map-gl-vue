@@ -15,5 +15,3 @@ https://lbsyun.baidu.com/jsdemo.htm#amapmask1
 https://lbsyun.baidu.com/jsdemo.htm#amapmask2
 
 https://lbsyun.baidu.com/jsdemo.htm#gl_tool_2
-
-wgnsCHUKjTpGHvVLaR9mY9DE3Qfakc7g
